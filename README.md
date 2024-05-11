@@ -17,4 +17,4 @@ Ensure each video ID is mapped to the correct haptic pattern name as defined in 
 # ConfigLoader.cs
 This script is responsible for loading the mappings from the JSON file into a usable form within your Unity.
 
-# how to get Started (I will update very soon)
+# getting Started 
